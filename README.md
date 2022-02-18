@@ -1,4 +1,4 @@
-# Assignment 5: TextRank
+# TextRank
 In this assignment, you will be modifying or expanding on the [provided code](https://colab.research.google.com/drive/1uDudirBsq0bQ4d4EmZAwX1N4yMsvmZc7) for TextRank in order to perform better key-phrase extraction or extractive text summarization. You should include the results of tests over at least one dataset.
 
 All your work should be in the Colab notebook. Make sure to leave comments throughout. You may interweave your code and write-up as you see fit/find convenient. If you have concerns or questions, reach out to me on Slack. I am happy to look at your code to provide feedback.
